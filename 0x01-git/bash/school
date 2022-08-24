@@ -1,2 +1,5 @@
 #!/bin/bash
-School
+School>>school
+
+ls
+echo School
